@@ -1,0 +1,25 @@
+{
+  "name": "deep-get-set",
+  "description": "Set and get values on objects via dot-notation strings.",
+  "main": [
+    "index.js",
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+  ],
+  "authors": [
+    "acstll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "test.js"
+  ]
+}
